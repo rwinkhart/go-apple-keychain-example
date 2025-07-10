@@ -1,0 +1,10 @@
+/swift/.DS_Store
+/swift/.build
+/swift/Packages
+/swift/xcuserdata/
+/swift/DerivedData/
+/swift/.swiftpm/configuration/registries.json
+/swift/.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+/swift/.netrc
+/libSwiftLibrary.dylib
+/main
